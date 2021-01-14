@@ -1,0 +1,9 @@
+name: 123-join!
+version: ${project.version}
+main: Mai.pdc
+prefix: 123JOIN
+load: STARTUP
+loadbefore: [ 123JOIN加载完成 ]
+authors: [ HonGee ]
+description: 一个用来提示123上线了的插件
+website: https://blog.rcpio.com/
